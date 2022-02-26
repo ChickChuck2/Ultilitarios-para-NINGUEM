@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+h1 {
+    color: white;
+}
+
+.clickhere {
+    font-size: 40px;
+    padding: 500px;
+    color: white;
+}
