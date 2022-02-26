@@ -4,9 +4,10 @@ body {
 h1 {
     color: white;
 }
-
+div {
+    text-align: center;
+}
 .clickhere {
     font-size: 40px;
-    padding: 500px;
     color: white;
 }
